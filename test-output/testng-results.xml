@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38" started-at="2017-09-21T19:29:14Z" finished-at="2017-09-21T19:29:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38" started-at="2017-09-21T19:29:14Z" finished-at="2017-09-21T19:29:14Z">
+      <class name="testngTutorials.FirstTestNGScript">
+        <test-method status="PASS" signature="loginApplication()[pri:1, instance:testngTutorials.FirstTestNGScript@66d2e7d9]" name="loginApplication" duration-ms="10" started-at="2017-09-21T15:29:14Z" description="this test is for login" finished-at="2017-09-21T15:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApplication -->
+        <test-method status="PASS" signature="selectItems()[pri:2, instance:testngTutorials.FirstTestNGScript@66d2e7d9]" name="selectItems" duration-ms="2" started-at="2017-09-21T15:29:14Z" finished-at="2017-09-21T15:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItems -->
+        <test-method status="PASS" signature="checkOut()[pri:3, instance:testngTutorials.FirstTestNGScript@66d2e7d9]" name="checkOut" duration-ms="3" started-at="2017-09-21T15:29:14Z" finished-at="2017-09-21T15:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+      </class> <!-- testngTutorials.FirstTestNGScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
